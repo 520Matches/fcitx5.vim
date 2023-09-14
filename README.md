@@ -5,4 +5,7 @@
 - 适用于fcitx5
 
 ### Install
+- vim-plug
 - plug '520Matches/fcitx5.vim'
+- Packer.nvim
+- use '520Matches/fcitx5.vim'
